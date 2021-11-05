@@ -1,2 +1,2 @@
 # OpenCV-ToothPaint1-miniPaint
-A 2D image manipulation editor that imitates the Paint application built using OpenCV
+This application named ‘Tooth Paint’ version TP_2020.1 (64-bit) was developed in 2 weeks times. The purpose of building this application is to provide 2D image manipulation with features such as loading image, geometric transformation of image, color conversion of image as well as paint features. Qt is a famous open source widget toolkit that chosen as GUI (Graphics User Interface) for this application while the main library used for image manipulation is OpenCV. Other than that, library such as numpy, math, time and sys are used to assist the application.
